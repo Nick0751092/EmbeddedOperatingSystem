@@ -1,0 +1,10 @@
+con1/A/1 con1/A/1 con1/A/1 con1/A/1 con1/A/1 con1/A/1 con1/A/1 con1/A/1
+con1 A A0 0
+con1 A A1 0
+con1 A A2 0
+con1 A A3 0
+con1 A A4 0
+con1 A A5 0
+con1 A A6 0
+con1 A A7 0
+server leave

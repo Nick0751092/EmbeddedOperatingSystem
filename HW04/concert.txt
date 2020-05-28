@@ -1,0 +1,4 @@
+3
+con1 Stadium1 A 140000 B 140000 C 136606 D 148088 E 125005
+con2 Stadium2 Normal 130000 Rare 112345 Unique 165634 Special 182345 Koo 180444
+con3 Stadium2 Normal 120000 Rare 137655 Unique 112345 Special 165464 Koo 131234

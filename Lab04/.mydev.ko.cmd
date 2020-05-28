@@ -1,0 +1,1 @@
+cmd_/home/nick/dtc/hdf/linux-xlnx/mydev/mydev.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/nick/dtc/hdf/linux-xlnx/mydev/mydev.ko /home/nick/dtc/hdf/linux-xlnx/mydev/mydev.o /home/nick/dtc/hdf/linux-xlnx/mydev/mydev.mod.o
